@@ -1,12 +1,17 @@
 # Intro
 
 1. Full Name
+
 Pavel Mazhanau
 
 2. Contact Information
+
 Discord: pavel_36400
+
 [E-mail](mazhanau@outlook.com)
+
 [LinkedIn](https://linkedin.com/in/pavel-mazhanau)
+
 [GitHUB](https://github.com/mazhanau)
 
 3. Brief Self-Introduction (your goals and priorities, emphasize your strengths, describe your work experience if applicable, or your desire to learn and acquire new skills)
