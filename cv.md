@@ -7,16 +7,16 @@ Responsible, communicative and flexible, attentive to details. Prefer to perform
 ## Contacts
 
 **Discord:** `pavel_36400`  
-**E-mail:** mazhanau@outlook.com  
+**E-mail:** `mazhanau@outlook.com`  
 [**LinkedIn**](https://www.linkedin.com/in/pavel-mazhanau)  
-[**GitHUB**](https://github.com/mazhanau) 
+[**GitHub**](https://github.com/mazhanau) 
 
 ## Skills
 
 **Methodologies:**
 
-* Waterfall
 * Agile (Kanban, FDD)
+* Waterfall
 
 **Languages:**
 
@@ -29,7 +29,7 @@ Responsible, communicative and flexible, attentive to details. Prefer to perform
 * VS Code
 * Bitrix24
 * Git (basics)
-* Github
+* GitHub
 
 ## Code Examples
 
