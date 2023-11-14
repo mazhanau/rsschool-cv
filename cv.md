@@ -62,11 +62,11 @@ Head of the IT department (2016 - till now)
 
 **Responsibilities:**
 
-* project management
-* define software requirements
-* business/system analysis
-* deployment and maintaining staging environment
-* manual testing
+* Project management
+* Define software requirements
+* Business/system analysis
+* Deployment and maintaining staging environment
+* Manual testing
 
 ## Education
 
