@@ -58,7 +58,7 @@ exports.arrayRegexFilter = function f2 (inputArray, regexArray)
 
 ## Work Experience
 
-Head of the IT department (2016 - till now)
+Head of IT department (2016 - till now)
 
 **Responsibilities:**
 
@@ -70,8 +70,8 @@ Head of the IT department (2016 - till now)
 
 ## Education
 
-Belarusian State Pedagogical University named after Maxim Tank.
+Belarusian State Pedagogical University named after Maxim Tank.  
 Institute of Psychology, business psychology.
 
-Self studied English language up to A2 level (according to Cambridge English Assessment).
-I am good at listening and reading, but I lack practice in speaking and writing.
+Self studied English language up to A2 level (according to Cambridge English Assessment).  
+> I am good at listening and reading, but I lack practice in speaking and writing.
